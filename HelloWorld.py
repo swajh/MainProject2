@@ -1,0 +1,2 @@
+E = "Hello"
+print(E)
